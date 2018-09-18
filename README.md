@@ -31,6 +31,10 @@ Maria Paola Bonacina and William W. McCune. Distributed theorem proving by Peers
 Proceedings of CADE-12, Springer, Lecture Notes in Artificial Intelligence 814,
 841-845, 1994; DOI: 10.1007/3-540-58156-1_72. 
 
+Maria Paola Bonacina and Jieh Hsiang. The Clause-Diffusion methodology for distributed
+deduction. Fundamenta Informaticae, 24(1,2):177-207, September 1995;
+DOI: 10.3233/FI-1995-24128.
+
 For further information on Clause-Diffusion see:
 http://profs.sci.univr.it/~bonacina/distributed.html
 
