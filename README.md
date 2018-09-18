@@ -33,6 +33,7 @@ Proceedings of CADE-12, Springer, Lecture Notes in Artificial Intelligence 814,
 
 For further information on Clause-Diffusion see:
 http://profs.sci.univr.it/~bonacina/distributed.html
+
 For further information on the Clause-Diffusion provers see:
 http://profs.sci.univr.it/~bonacina/cdprovers.html
 
